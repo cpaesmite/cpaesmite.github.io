@@ -3,17 +3,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
 	<title type="text">Corner of Reflection</title>
 	<subtitle type="text">Cpaesmite Consulting - International Commerce And Logistics</subtitle>
-	<link rel="alternate" type="text/html" href="http://cpaesmite.com"/>
-	<id>http://cpaesmite.com/index.php</id>
+	<link rel="alternate" type="text/html" href="https://cpaesmite.github.io"/>
+	<id>https://cpaesmite.github.io/index.php</id>
 	<updated>2019-09-07T19:29:21Z</updated>
 	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
-<link rel="self" type="application/atom+xml" href="http://cpaesmite.com/index.php?option=com_content&amp;view=section&amp;id=15&amp;Itemid=62&amp;lang=en&amp;format=feed&amp;type=atom" />
+<link rel="self" type="application/atom+xml" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=section&amp;id=15&amp;Itemid=62&amp;lang=en&amp;format=feed&amp;type=atom" />
 	<entry>
 		<title>Cultivating Collaboration: Don't Be So Defensive! </title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=518%3Acultivating-collaboration-dont-be-so-defensive-&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=518%3Acultivating-collaboration-dont-be-so-defensive-&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
 		<published>2016-10-19T10:05:20Z</published>
 		<updated>2016-10-19T10:05:20Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=518%3Acultivating-collaboration-dont-be-so-defensive-&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=518%3Acultivating-collaboration-dont-be-so-defensive-&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -23,10 +23,10 @@
 	</entry>
 	<entry>
 		<title>Denzel Washington: Motivacional</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=514%3Adenzel-washington-motivacional&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=514%3Adenzel-washington-motivacional&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
 		<published>2016-10-06T12:53:31Z</published>
 		<updated>2016-10-06T12:53:31Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=514%3Adenzel-washington-motivacional&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=514%3Adenzel-washington-motivacional&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -36,10 +36,10 @@
 	</entry>
 	<entry>
 		<title>El arte de vender</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=488%3Ael-arte-de-vender&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=488%3Ael-arte-de-vender&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
 		<published>2016-05-15T15:06:24Z</published>
 		<updated>2016-05-15T15:06:24Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=488%3Ael-arte-de-vender&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=488%3Ael-arte-de-vender&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -57,10 +57,10 @@
 	</entry>
 	<entry>
 		<title>If you want to achieve your goals, don't focus on them</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=486%3Aif-you-want-to-achieve-your-goals-dont-focus-on-them&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=486%3Aif-you-want-to-achieve-your-goals-dont-focus-on-them&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
 		<published>2016-05-08T14:21:19Z</published>
 		<updated>2016-05-08T14:21:19Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=486%3Aif-you-want-to-achieve-your-goals-dont-focus-on-them&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=486%3Aif-you-want-to-achieve-your-goals-dont-focus-on-them&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -70,10 +70,10 @@
 	</entry>
 	<entry>
 		<title>Midiendo lo que hace que la vida valga la pena</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=480%3Amidiendo-lo-que-hace-que-la-vida-valga-la-pena&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=480%3Amidiendo-lo-que-hace-que-la-vida-valga-la-pena&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
 		<published>2016-04-10T02:47:55Z</published>
 		<updated>2016-04-10T02:47:55Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=480%3Amidiendo-lo-que-hace-que-la-vida-valga-la-pena&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=480%3Amidiendo-lo-que-hace-que-la-vida-valga-la-pena&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -83,10 +83,10 @@
 	</entry>
 	<entry>
 		<title>Paraguayan Happiness</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=479%3Aparaguayan-happiness&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=479%3Aparaguayan-happiness&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
 		<published>2016-04-09T14:24:36Z</published>
 		<updated>2016-04-09T14:24:36Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=479%3Aparaguayan-happiness&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=479%3Aparaguayan-happiness&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -100,10 +100,10 @@
 	</entry>
 	<entry>
 		<title>Think outside the box</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=477%3Athink-outside-the-box&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=477%3Athink-outside-the-box&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
 		<published>2016-04-01T13:06:24Z</published>
 		<updated>2016-04-01T13:06:24Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=477%3Athink-outside-the-box&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=477%3Athink-outside-the-box&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -113,10 +113,10 @@
 	</entry>
 	<entry>
 		<title>Trabajo en equipo</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=475%3Atrabajo-en-equipo&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=475%3Atrabajo-en-equipo&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
 		<published>2016-03-21T11:51:02Z</published>
 		<updated>2016-03-21T11:51:02Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=475%3Atrabajo-en-equipo&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=475%3Atrabajo-en-equipo&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -128,10 +128,10 @@
 	</entry>
 	<entry>
 		<title>Exito y felicidad no son sinónimos.</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=434%3Aexito-y-felicidad-no-son-sinonimos&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=434%3Aexito-y-felicidad-no-son-sinonimos&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
 		<published>2015-04-12T15:18:45Z</published>
 		<updated>2015-04-12T15:18:45Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=434%3Aexito-y-felicidad-no-son-sinonimos&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=434%3Aexito-y-felicidad-no-son-sinonimos&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -141,15 +141,15 @@
 	</entry>
 	<entry>
 		<title>Como no ser un ignorante del mundo</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=422%3Acomo-no-ser-un-ignorante-del-mundo&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=422%3Acomo-no-ser-un-ignorante-del-mundo&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en"/>
 		<published>2015-01-18T15:40:59Z</published>
 		<updated>2015-01-18T15:40:59Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=422%3Acomo-no-ser-un-ignorante-del-mundo&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=422%3Acomo-no-ser-un-ignorante-del-mundo&amp;catid=68%3Avidioteca&amp;Itemid=62&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
 		</author>
-		<summary type="html">&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://cpaesmite.com///www.youtube.com/embed/Sm5xF-UYgdg&quot; mce_src=&quot;http://www.youtube.com/embed/Sm5xF-UYgdg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</summary>
-		<content type="html">&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://cpaesmite.com///www.youtube.com/embed/Sm5xF-UYgdg&quot; mce_src=&quot;http://www.youtube.com/embed/Sm5xF-UYgdg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+		<summary type="html">&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://cpaesmite.github.io///www.youtube.com/embed/Sm5xF-UYgdg&quot; mce_src=&quot;http://www.youtube.com/embed/Sm5xF-UYgdg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://cpaesmite.github.io///www.youtube.com/embed/Sm5xF-UYgdg&quot; mce_src=&quot;http://www.youtube.com/embed/Sm5xF-UYgdg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
 	</entry>
 </feed>

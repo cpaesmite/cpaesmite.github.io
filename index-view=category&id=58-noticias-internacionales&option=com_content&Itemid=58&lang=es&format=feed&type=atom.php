@@ -3,17 +3,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="es-es">
 	<title type="text">NOVEDADES</title>
 	<subtitle type="text">Cpaesmite Consulting - International Commerce And Logistics</subtitle>
-	<link rel="alternate" type="text/html" href="http://cpaesmite.com"/>
-	<id>http://cpaesmite.com/index.php</id>
+	<link rel="alternate" type="text/html" href="https://cpaesmite.github.io"/>
+	<id>https://cpaesmite.github.io/index.php</id>
 	<updated>2019-09-07T19:32:06Z</updated>
 	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
-<link rel="self" type="application/atom+xml" href="http://cpaesmite.com/index.php?view=category&amp;id=58%3Anoticias-internacionales&amp;option=com_content&amp;Itemid=58&amp;lang=es&amp;format=feed&amp;type=atom" />
+<link rel="self" type="application/atom+xml" href="https://cpaesmite.github.io/index.php?view=category&amp;id=58%3Anoticias-internacionales&amp;option=com_content&amp;Itemid=58&amp;lang=es&amp;format=feed&amp;type=atom" />
 	<entry>
 		<title>El intercambio comercial entre India y América Latina alcanzó US$30.000 millones en 2016, según nuevo estudio del BID</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=538%3A2018-02-09-20-43-41&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=538%3A2018-02-09-20-43-41&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
 		<published>2018-02-09T20:41:23Z</published>
 		<updated>2018-02-09T20:41:23Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=538%3A2018-02-09-20-43-41&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=538%3A2018-02-09-20-43-41&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -23,10 +23,10 @@
 	</entry>
 	<entry>
 		<title>DANDO PASOS SEGUROS PARA EXPORTAR MÁS Y A MÁS MERCADOS: EL PROGRAMA DE OPERADOR ECONÓMICO AUTORIZADO</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=536%3A2017-12-23-12-31-37&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=536%3A2017-12-23-12-31-37&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
 		<published>2017-12-23T12:26:59Z</published>
 		<updated>2017-12-23T12:26:59Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=536%3A2017-12-23-12-31-37&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=536%3A2017-12-23-12-31-37&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -36,10 +36,10 @@
 	</entry>
 	<entry>
 		<title>ESTADÍSTICAS Y PERSPECTIVAS COMERCIALES 2017-2018</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=535%3A2017-10-21-12-52-07&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=535%3A2017-10-21-12-52-07&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
 		<published>2017-10-21T12:50:28Z</published>
 		<updated>2017-10-21T12:50:28Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=535%3A2017-10-21-12-52-07&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=535%3A2017-10-21-12-52-07&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -49,10 +49,10 @@
 	</entry>
 	<entry>
 		<title>El transporte automotor de carga en América Latina: Soporte logístico de la producción y el comercio </title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=534%3A2017-08-14-15-43-09&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=534%3A2017-08-14-15-43-09&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
 		<published>2017-08-14T15:40:43Z</published>
 		<updated>2017-08-14T15:40:43Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=534%3A2017-08-14-15-43-09&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=534%3A2017-08-14-15-43-09&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -62,10 +62,10 @@
 	</entry>
 	<entry>
 		<title>«Fake news»: una oportunidad para la alfabetización mediática</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=533%3A2017-07-14-19-09-31&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=533%3A2017-07-14-19-09-31&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
 		<published>2017-07-14T19:01:29Z</published>
 		<updated>2017-07-14T19:01:29Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=533%3A2017-07-14-19-09-31&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=533%3A2017-07-14-19-09-31&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -75,10 +75,10 @@
 	</entry>
 	<entry>
 		<title>La locomotora china y la apuesta por Asia en el nuevo siglo</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=532%3Ala-locomotora-china-y-la-apuesta-por-asia-en-el-nuevo-siglo&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=532%3Ala-locomotora-china-y-la-apuesta-por-asia-en-el-nuevo-siglo&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
 		<published>2017-06-22T12:50:48Z</published>
 		<updated>2017-06-22T12:50:48Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=532%3Ala-locomotora-china-y-la-apuesta-por-asia-en-el-nuevo-siglo&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=532%3Ala-locomotora-china-y-la-apuesta-por-asia-en-el-nuevo-siglo&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -88,10 +88,10 @@
 	</entry>
 	<entry>
 		<title>El nuevo contexto internacional y el desafío de América Latina</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=530%3Ael-nuevo-contexto-internacional-y-el-desafio-de-america-latina&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=530%3Ael-nuevo-contexto-internacional-y-el-desafio-de-america-latina&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
 		<published>2017-05-23T14:20:26Z</published>
 		<updated>2017-05-23T14:20:26Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=530%3Ael-nuevo-contexto-internacional-y-el-desafio-de-america-latina&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=530%3Ael-nuevo-contexto-internacional-y-el-desafio-de-america-latina&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -101,10 +101,10 @@
 	</entry>
 	<entry>
 		<title>EN TIEMPOS DE INCERTIDUMBRE, MAYOR INTEGRACIÓN REGIONAL</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=529%3Aen-tiempos-de-incertidumbre-mayor-integracion-regional&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=529%3Aen-tiempos-de-incertidumbre-mayor-integracion-regional&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
 		<published>2017-04-12T22:07:16Z</published>
 		<updated>2017-04-12T22:07:16Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=529%3Aen-tiempos-de-incertidumbre-mayor-integracion-regional&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=529%3Aen-tiempos-de-incertidumbre-mayor-integracion-regional&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -114,10 +114,10 @@
 	</entry>
 	<entry>
 		<title>CEPAL lanza nuevo Perfil Marítimo y Logístico en apoyo a las políticas de logística para un desarrollo sostenible</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=528%3Acepal-lanza-nuevo-perfil-maritimo-y-logistico-en-apoyo-a-las-politicas-de-logistica-para-un-desarrollo-sostenible&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=528%3Acepal-lanza-nuevo-perfil-maritimo-y-logistico-en-apoyo-a-las-politicas-de-logistica-para-un-desarrollo-sostenible&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
 		<published>2017-03-13T11:09:07Z</published>
 		<updated>2017-03-13T11:09:07Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=528%3Acepal-lanza-nuevo-perfil-maritimo-y-logistico-en-apoyo-a-las-politicas-de-logistica-para-un-desarrollo-sostenible&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=528%3Acepal-lanza-nuevo-perfil-maritimo-y-logistico-en-apoyo-a-las-politicas-de-logistica-para-un-desarrollo-sostenible&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -127,10 +127,10 @@
 	</entry>
 	<entry>
 		<title>Perfiles arancelarios en el mundo</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=527%3Aperfiles-arancelarios-en-el-mundo&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=527%3Aperfiles-arancelarios-en-el-mundo&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es"/>
 		<published>2017-03-13T11:04:01Z</published>
 		<updated>2017-03-13T11:04:01Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=527%3Aperfiles-arancelarios-en-el-mundo&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=527%3Aperfiles-arancelarios-en-el-mundo&amp;catid=58%3Anoticias-internacionales&amp;Itemid=58&amp;lang=es</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>

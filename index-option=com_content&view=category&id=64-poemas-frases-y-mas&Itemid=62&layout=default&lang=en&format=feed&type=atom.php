@@ -3,17 +3,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
 	<title type="text">Corner of Reflection</title>
 	<subtitle type="text">Cpaesmite Consulting - International Commerce And Logistics</subtitle>
-	<link rel="alternate" type="text/html" href="http://cpaesmite.com"/>
-	<id>http://cpaesmite.com/index.php</id>
+	<link rel="alternate" type="text/html" href="https://cpaesmite.github.io"/>
+	<id>https://cpaesmite.github.io/index.php</id>
 	<updated>2019-09-07T19:30:02Z</updated>
 	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
-<link rel="self" type="application/atom+xml" href="http://cpaesmite.com/index.php?option=com_content&amp;view=category&amp;id=64%3Apoemas-frases-y-mas&amp;Itemid=62&amp;layout=default&amp;lang=en&amp;format=feed&amp;type=atom" />
+<link rel="self" type="application/atom+xml" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=category&amp;id=64%3Apoemas-frases-y-mas&amp;Itemid=62&amp;layout=default&amp;lang=en&amp;format=feed&amp;type=atom" />
 	<entry>
 		<title>Quotes and more...</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=128%3Afrases-y-mas&amp;catid=64%3Apoemas-frases-y-mas&amp;Itemid=62&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=128%3Afrases-y-mas&amp;catid=64%3Apoemas-frases-y-mas&amp;Itemid=62&amp;lang=en"/>
 		<published>2012-01-23T20:56:10Z</published>
 		<updated>2012-01-23T20:56:10Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=128%3Afrases-y-mas&amp;catid=64%3Apoemas-frases-y-mas&amp;Itemid=62&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=128%3Afrases-y-mas&amp;catid=64%3Apoemas-frases-y-mas&amp;Itemid=62&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -591,10 +591,10 @@
 	</entry>
 	<entry>
 		<title>Poems</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=127%3Apoemas&amp;catid=64%3Apoemas-frases-y-mas&amp;Itemid=62&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=127%3Apoemas&amp;catid=64%3Apoemas-frases-y-mas&amp;Itemid=62&amp;lang=en"/>
 		<published>2012-01-23T20:21:12Z</published>
 		<updated>2012-01-23T20:21:12Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=127%3Apoemas&amp;catid=64%3Apoemas-frases-y-mas&amp;Itemid=62&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=127%3Apoemas&amp;catid=64%3Apoemas-frases-y-mas&amp;Itemid=62&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>

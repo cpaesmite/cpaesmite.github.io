@@ -3,17 +3,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
 	<title type="text">NEWS</title>
 	<subtitle type="text">Cpaesmite Consulting - International Commerce And Logistics</subtitle>
-	<link rel="alternate" type="text/html" href="http://cpaesmite.com"/>
-	<id>http://cpaesmite.com/index.php</id>
+	<link rel="alternate" type="text/html" href="https://cpaesmite.github.io"/>
+	<id>https://cpaesmite.github.io/index.php</id>
 	<updated>2019-09-07T19:32:52Z</updated>
 	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
-<link rel="self" type="application/atom+xml" href="http://cpaesmite.com/index.php?view=category&amp;id=56%3Anoticias-uruguay&amp;option=com_content&amp;Itemid=58&amp;lang=en&amp;format=feed&amp;type=atom" />
+<link rel="self" type="application/atom+xml" href="https://cpaesmite.github.io/index.php?view=category&amp;id=56%3Anoticias-uruguay&amp;option=com_content&amp;Itemid=58&amp;lang=en&amp;format=feed&amp;type=atom" />
 	<entry>
 		<title>Informe anual de exportaciones de bienes del Uruguay 2016</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=531%3Ainforme-anual-de-exportaciones-de-bienes-del-uruguay-2016&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=531%3Ainforme-anual-de-exportaciones-de-bienes-del-uruguay-2016&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2017-06-22T12:28:15Z</published>
 		<updated>2017-06-22T12:28:15Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=531%3Ainforme-anual-de-exportaciones-de-bienes-del-uruguay-2016&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=531%3Ainforme-anual-de-exportaciones-de-bienes-del-uruguay-2016&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -23,10 +23,10 @@
 	</entry>
 	<entry>
 		<title>Oportunidades de exportación de Uruguay a Paraguay</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=476%3Aoportunidades-de-exportacion-de-uruguay-a-paraguay&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=476%3Aoportunidades-de-exportacion-de-uruguay-a-paraguay&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2016-03-30T13:06:53Z</published>
 		<updated>2016-03-30T13:06:53Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=476%3Aoportunidades-de-exportacion-de-uruguay-a-paraguay&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=476%3Aoportunidades-de-exportacion-de-uruguay-a-paraguay&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -36,10 +36,10 @@
 	</entry>
 	<entry>
 		<title>Uruguay: Declaración del personal del FMI al término de la misión sobre la Consulta del Artículo IV de 2015</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=459%3Auruguay-declaracion-del-personal-del-fmi-al-termino-de-la-mision-sobre-la-consulta-del-articulo-iv-de-2015&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=459%3Auruguay-declaracion-del-personal-del-fmi-al-termino-de-la-mision-sobre-la-consulta-del-articulo-iv-de-2015&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2015-12-11T11:22:00Z</published>
 		<updated>2015-12-11T11:22:00Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=459%3Auruguay-declaracion-del-personal-del-fmi-al-termino-de-la-mision-sobre-la-consulta-del-articulo-iv-de-2015&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=459%3Auruguay-declaracion-del-personal-del-fmi-al-termino-de-la-mision-sobre-la-consulta-del-articulo-iv-de-2015&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -49,10 +49,10 @@
 	</entry>
 	<entry>
 		<title>Perspectivas para el  Comercio Regional e  Internacional</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=420%3Aperspectivas-para-el-comercio-regional-e-internacional&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=420%3Aperspectivas-para-el-comercio-regional-e-internacional&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2015-01-11T15:31:55Z</published>
 		<updated>2015-01-11T15:31:55Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=420%3Aperspectivas-para-el-comercio-regional-e-internacional&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=420%3Aperspectivas-para-el-comercio-regional-e-internacional&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -62,10 +62,10 @@
 	</entry>
 	<entry>
 		<title>Declaración al término de una misión del FMI a Uruguay</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=410%3Adeclaracion-al-termino-de-una-mision-del-fmi-a-uruguay&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=410%3Adeclaracion-al-termino-de-una-mision-del-fmi-a-uruguay&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2014-12-14T13:55:57Z</published>
 		<updated>2014-12-14T13:55:57Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=410%3Adeclaracion-al-termino-de-una-mision-del-fmi-a-uruguay&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=410%3Adeclaracion-al-termino-de-una-mision-del-fmi-a-uruguay&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -75,10 +75,10 @@
 	</entry>
 	<entry>
 		<title>Doing Business 2015 : going beyond efficiency - Uruguay </title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=403%3Adoing-business-2015--going-beyond-efficiency-uruguay-&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=403%3Adoing-business-2015--going-beyond-efficiency-uruguay-&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2014-11-16T14:23:51Z</published>
 		<updated>2014-11-16T14:23:51Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=403%3Adoing-business-2015--going-beyond-efficiency-uruguay-&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=403%3Adoing-business-2015--going-beyond-efficiency-uruguay-&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -88,10 +88,10 @@
 	</entry>
 	<entry>
 		<title>Composite Leading Indicators (CLI), OECD, November 2014</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=401%3Acomposite-leading-indicators-cli-oecd-november-2014&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=401%3Acomposite-leading-indicators-cli-oecd-november-2014&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2014-11-16T14:14:29Z</published>
 		<updated>2014-11-16T14:14:29Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=401%3Acomposite-leading-indicators-cli-oecd-november-2014&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=401%3Acomposite-leading-indicators-cli-oecd-november-2014&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -101,10 +101,10 @@
 	</entry>
 	<entry>
 		<title>El mercado de trabajo uruguayo en los cinco primeros meses de 2014</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=376%3Ael-mercado-de-trabajo-uruguayo-en-los-cinco-primeros-meses-de-2014&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=376%3Ael-mercado-de-trabajo-uruguayo-en-los-cinco-primeros-meses-de-2014&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2014-08-03T16:00:25Z</published>
 		<updated>2014-08-03T16:00:25Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=376%3Ael-mercado-de-trabajo-uruguayo-en-los-cinco-primeros-meses-de-2014&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=376%3Ael-mercado-de-trabajo-uruguayo-en-los-cinco-primeros-meses-de-2014&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -124,10 +124,10 @@
 	</entry>
 	<entry>
 		<title>Gobierno uruguayo promulgó ley de adhesión de Bolivia al Mercosur  </title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=370%3Agobierno-uruguayo-promulgo-ley-de-adhesion-de-bolivia-al-mercosur-&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=370%3Agobierno-uruguayo-promulgo-ley-de-adhesion-de-bolivia-al-mercosur-&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2014-06-27T18:01:25Z</published>
 		<updated>2014-06-27T18:01:25Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=370%3Agobierno-uruguayo-promulgo-ley-de-adhesion-de-bolivia-al-mercosur-&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=370%3Agobierno-uruguayo-promulgo-ley-de-adhesion-de-bolivia-al-mercosur-&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -153,10 +153,10 @@
 	</entry>
 	<entry>
 		<title>Se prevé un crecimiento moderado del comercio en 2014 y 2015, después de dos años de estancamiento</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=362%3Ase-preve-un-crecimiento-moderado-del-comercio-en-2014-y-2015-despues-de-dos-anos-de-estancamiento&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=362%3Ase-preve-un-crecimiento-moderado-del-comercio-en-2014-y-2015-despues-de-dos-anos-de-estancamiento&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2014-05-16T12:40:53Z</published>
 		<updated>2014-05-16T12:40:53Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=362%3Ase-preve-un-crecimiento-moderado-del-comercio-en-2014-y-2015-despues-de-dos-anos-de-estancamiento&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=362%3Ase-preve-un-crecimiento-moderado-del-comercio-en-2014-y-2015-despues-de-dos-anos-de-estancamiento&amp;catid=56%3Anoticias-uruguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
