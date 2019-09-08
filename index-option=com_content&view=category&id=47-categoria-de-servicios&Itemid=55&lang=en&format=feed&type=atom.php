@@ -3,17 +3,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
 	<title type="text">OUR SERVICES</title>
 	<subtitle type="text">Cpaesmite Consulting - International Commerce And Logistics</subtitle>
-	<link rel="alternate" type="text/html" href="http://cpaesmite.com"/>
-	<id>http://cpaesmite.com/index.php</id>
+	<link rel="alternate" type="text/html" href="https://cpaesmite.github.io"/>
+	<id>https://cpaesmite.github.io/index.php</id>
 	<updated>2019-09-07T19:30:10Z</updated>
 	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
-<link rel="self" type="application/atom+xml" href="http://cpaesmite.com/index.php?option=com_content&amp;view=category&amp;id=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en&amp;format=feed&amp;type=atom" />
+<link rel="self" type="application/atom+xml" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=category&amp;id=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en&amp;format=feed&amp;type=atom" />
 	<entry>
 		<title>Support to foreign companies in Uruguay and Paraguay</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=46%3Aapoyo-a-empresas-extranjeras-en-uruguay-y-paraguay&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=46%3Aapoyo-a-empresas-extranjeras-en-uruguay-y-paraguay&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en"/>
 		<published>2011-04-28T00:21:06Z</published>
 		<updated>2011-04-28T00:21:06Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=46%3Aapoyo-a-empresas-extranjeras-en-uruguay-y-paraguay&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=46%3Aapoyo-a-empresas-extranjeras-en-uruguay-y-paraguay&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -63,10 +63,10 @@
 	</entry>
 	<entry>
 		<title>Process reengineering</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=47%3Areingenieria-de-procesos&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=47%3Areingenieria-de-procesos&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en"/>
 		<published>2011-04-28T00:26:19Z</published>
 		<updated>2011-04-28T00:26:19Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=47%3Areingenieria-de-procesos&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=47%3Areingenieria-de-procesos&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -96,10 +96,10 @@
 	</entry>
 	<entry>
 		<title>Planning, analysis and control of economic-financial management</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=48%3Aplanificacion-analisis-y-control-de-gestion-economico-financiera&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=48%3Aplanificacion-analisis-y-control-de-gestion-economico-financiera&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en"/>
 		<published>2011-04-28T00:28:00Z</published>
 		<updated>2011-04-28T00:28:00Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=48%3Aplanificacion-analisis-y-control-de-gestion-economico-financiera&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=48%3Aplanificacion-analisis-y-control-de-gestion-economico-financiera&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -165,10 +165,10 @@
 	</entry>
 	<entry>
 		<title>Planning and analysis of new business projects</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=49%3Aplanificacion-y-analisis-de-nuevos-proyectos-empresariales&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=49%3Aplanificacion-y-analisis-de-nuevos-proyectos-empresariales&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en"/>
 		<published>2011-04-28T00:35:42Z</published>
 		<updated>2011-04-28T00:35:42Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=49%3Aplanificacion-y-analisis-de-nuevos-proyectos-empresariales&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=49%3Aplanificacion-y-analisis-de-nuevos-proyectos-empresariales&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -216,10 +216,10 @@
 	</entry>
 	<entry>
 		<title>Optimization and development of foreign trade processes</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=54%3Aoptimizacion-y-desarrollo-de-procesos-de-comercio-exterior&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=54%3Aoptimizacion-y-desarrollo-de-procesos-de-comercio-exterior&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en"/>
 		<published>2011-05-01T14:25:54Z</published>
 		<updated>2011-05-01T14:25:54Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=54%3Aoptimizacion-y-desarrollo-de-procesos-de-comercio-exterior&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=54%3Aoptimizacion-y-desarrollo-de-procesos-de-comercio-exterior&amp;catid=47%3Acategoria-de-servicios&amp;Itemid=55&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>

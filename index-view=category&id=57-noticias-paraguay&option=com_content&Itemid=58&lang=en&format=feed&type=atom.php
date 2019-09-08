@@ -3,17 +3,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
 	<title type="text">NEWS</title>
 	<subtitle type="text">Cpaesmite Consulting - International Commerce And Logistics</subtitle>
-	<link rel="alternate" type="text/html" href="http://cpaesmite.com"/>
-	<id>http://cpaesmite.com/index.php</id>
+	<link rel="alternate" type="text/html" href="https://cpaesmite.github.io"/>
+	<id>https://cpaesmite.github.io/index.php</id>
 	<updated>2019-09-07T19:39:40Z</updated>
 	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
-<link rel="self" type="application/atom+xml" href="http://cpaesmite.com/index.php?view=category&amp;id=57%3Anoticias-paraguay&amp;option=com_content&amp;Itemid=58&amp;lang=en&amp;format=feed&amp;type=atom" />
+<link rel="self" type="application/atom+xml" href="https://cpaesmite.github.io/index.php?view=category&amp;id=57%3Anoticias-paraguay&amp;option=com_content&amp;Itemid=58&amp;lang=en&amp;format=feed&amp;type=atom" />
 	<entry>
 		<title>En Sudamérica, Paraguay es la economía que más avanzó en cuanto a Producto Interno Bruto </title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=524%3Aen-sudamerica-paraguay-es-la-economia-que-mas-avanzo-en-cuanto-a-producto-interno-bruto-&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=524%3Aen-sudamerica-paraguay-es-la-economia-que-mas-avanzo-en-cuanto-a-producto-interno-bruto-&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2017-02-03T17:41:07Z</published>
 		<updated>2017-02-03T17:41:07Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=524%3Aen-sudamerica-paraguay-es-la-economia-que-mas-avanzo-en-cuanto-a-producto-interno-bruto-&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=524%3Aen-sudamerica-paraguay-es-la-economia-que-mas-avanzo-en-cuanto-a-producto-interno-bruto-&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -23,23 +23,23 @@
 	</entry>
 	<entry>
 		<title> Logística de Calidad</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=448%3A-logistica-de-calidad&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=448%3A-logistica-de-calidad&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2015-08-22T13:34:01Z</published>
 		<updated>2015-08-22T13:34:01Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=448%3A-logistica-de-calidad&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=448%3A-logistica-de-calidad&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
 		</author>
-		<summary type="html">&lt;p&gt;En nuestro espacio de Trabajos Técnicos compartimos la presentación realizada por nuestro director el Cr. Federico Esmite en el Evento:&lt;span style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot; mce_style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot;&gt;&amp;nbsp;XI Encuentro de Protagonistas, realizado en el Hotel Bourbon de Asunción, Paraguay el día&lt;/span&gt;&lt;span style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot; mce_style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot;&gt;&amp;nbsp;20 de Agosto de 2015.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot; mce_style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot; mce_style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot;&gt;&lt;img mce_src=&quot;http://cpaesmite.com/images/Noticias/esmite3.jpg&quot; src=&quot;http://cpaesmite.com/images/Noticias/esmite3.jpg&quot; width=&quot;500&quot; height=&quot;333&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot; mce_style=&quot;text-align: center;&quot;&gt;&lt;img mce_src=&quot;http://cpaesmite.com/images/banners/captura.jpg&quot; src=&quot;http://cpaesmite.com/images/banners/captura.jpg&quot; width=&quot;543&quot; height=&quot;367&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot; mce_style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</summary>
-		<content type="html">&lt;p&gt;En nuestro espacio de Trabajos Técnicos compartimos la presentación realizada por nuestro director el Cr. Federico Esmite en el Evento:&lt;span style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot; mce_style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot;&gt;&amp;nbsp;XI Encuentro de Protagonistas, realizado en el Hotel Bourbon de Asunción, Paraguay el día&lt;/span&gt;&lt;span style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot; mce_style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot;&gt;&amp;nbsp;20 de Agosto de 2015.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot; mce_style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot; mce_style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot;&gt;&lt;img mce_src=&quot;http://cpaesmite.com/images/Noticias/esmite3.jpg&quot; src=&quot;http://cpaesmite.com/images/Noticias/esmite3.jpg&quot; width=&quot;500&quot; height=&quot;333&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot; mce_style=&quot;text-align: center;&quot;&gt;&lt;img mce_src=&quot;http://cpaesmite.com/images/banners/captura.jpg&quot; src=&quot;http://cpaesmite.com/images/banners/captura.jpg&quot; width=&quot;543&quot; height=&quot;367&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot; mce_style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</content>
+		<summary type="html">&lt;p&gt;En nuestro espacio de Trabajos Técnicos compartimos la presentación realizada por nuestro director el Cr. Federico Esmite en el Evento:&lt;span style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot; mce_style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot;&gt;&amp;nbsp;XI Encuentro de Protagonistas, realizado en el Hotel Bourbon de Asunción, Paraguay el día&lt;/span&gt;&lt;span style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot; mce_style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot;&gt;&amp;nbsp;20 de Agosto de 2015.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot; mce_style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot; mce_style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot;&gt;&lt;img mce_src=&quot;https://cpaesmite.github.io/images/Noticias/esmite3.jpg&quot; src=&quot;https://cpaesmite.github.io/images/Noticias/esmite3.jpg&quot; width=&quot;500&quot; height=&quot;333&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot; mce_style=&quot;text-align: center;&quot;&gt;&lt;img mce_src=&quot;https://cpaesmite.github.io/images/banners/captura.jpg&quot; src=&quot;https://cpaesmite.github.io/images/banners/captura.jpg&quot; width=&quot;543&quot; height=&quot;367&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot; mce_style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;En nuestro espacio de Trabajos Técnicos compartimos la presentación realizada por nuestro director el Cr. Federico Esmite en el Evento:&lt;span style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot; mce_style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot;&gt;&amp;nbsp;XI Encuentro de Protagonistas, realizado en el Hotel Bourbon de Asunción, Paraguay el día&lt;/span&gt;&lt;span style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot; mce_style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot;&gt;&amp;nbsp;20 de Agosto de 2015.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot; mce_style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot; mce_style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot;&gt;&lt;img mce_src=&quot;https://cpaesmite.github.io/images/Noticias/esmite3.jpg&quot; src=&quot;https://cpaesmite.github.io/images/Noticias/esmite3.jpg&quot; width=&quot;500&quot; height=&quot;333&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot; mce_style=&quot;text-align: center;&quot;&gt;&lt;img mce_src=&quot;https://cpaesmite.github.io/images/banners/captura.jpg&quot; src=&quot;https://cpaesmite.github.io/images/banners/captura.jpg&quot; width=&quot;543&quot; height=&quot;367&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot; mce_style=&quot;font-size: 12.1599998474121px; line-height: 1.3em;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</content>
 	</entry>
 	<entry>
 		<title>Uruguay XXI - Paraguay</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=439%3Auruguay-xxi-paraguay&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=439%3Auruguay-xxi-paraguay&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2015-05-23T20:38:07Z</published>
 		<updated>2015-05-23T20:38:07Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=439%3Auruguay-xxi-paraguay&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=439%3Auruguay-xxi-paraguay&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -49,10 +49,10 @@
 	</entry>
 	<entry>
 		<title>PARAGUAY - TEMAS SELECCIONADOS</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=427%3Aparaguay-temas-seleccionados&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=427%3Aparaguay-temas-seleccionados&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2015-02-27T11:52:30Z</published>
 		<updated>2015-02-27T11:52:30Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=427%3Aparaguay-temas-seleccionados&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=427%3Aparaguay-temas-seleccionados&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -68,10 +68,10 @@ SOBRE LA FORMULACIÓN DE LAS POLÍTICAS&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p
 	</entry>
 	<entry>
 		<title>Declaración de la misión del FMI al finalizar su visita a Paraguay</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=411%3Adeclaracion-de-la-mision-del-fmi-al-finalizar-su-visita-a-paraguay&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=411%3Adeclaracion-de-la-mision-del-fmi-al-finalizar-su-visita-a-paraguay&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2014-12-14T14:00:42Z</published>
 		<updated>2014-12-14T14:00:42Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=411%3Adeclaracion-de-la-mision-del-fmi-al-finalizar-su-visita-a-paraguay&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=411%3Adeclaracion-de-la-mision-del-fmi-al-finalizar-su-visita-a-paraguay&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -81,10 +81,10 @@ SOBRE LA FORMULACIÓN DE LAS POLÍTICAS&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p
 	</entry>
 	<entry>
 		<title>Doing Business - Paraguay 2014</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=358%3Adoing-business-paraguay-2014&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=358%3Adoing-business-paraguay-2014&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2014-05-11T14:54:12Z</published>
 		<updated>2014-05-11T14:54:12Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=358%3Adoing-business-paraguay-2014&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=358%3Adoing-business-paraguay-2014&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -106,10 +106,10 @@ SOBRE LA FORMULACIÓN DE LAS POLÍTICAS&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p
 	</entry>
 	<entry>
 		<title>Paraguay - Perfil País (Uruguay)</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=354%3Aparaguay-perfil-pais-uruguay&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=354%3Aparaguay-perfil-pais-uruguay&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2014-04-22T14:56:29Z</published>
 		<updated>2014-04-22T14:56:29Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=354%3Aparaguay-perfil-pais-uruguay&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=354%3Aparaguay-perfil-pais-uruguay&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -139,10 +139,10 @@ SOBRE LA FORMULACIÓN DE LAS POLÍTICAS&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p
 	</entry>
 	<entry>
 		<title>PARAGUAY - El dólar se elevó a G. 4.730 ante la expectativa por decisión de EE.UU.</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=330%3Aparaguay-el-dolar-se-elevo-a-g-4730-ante-la-expectativa-por-decision-de-eeuu&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=330%3Aparaguay-el-dolar-se-elevo-a-g-4730-ante-la-expectativa-por-decision-de-eeuu&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2014-01-30T09:58:33Z</published>
 		<updated>2014-01-30T09:58:33Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=330%3Aparaguay-el-dolar-se-elevo-a-g-4730-ante-la-expectativa-por-decision-de-eeuu&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=330%3Aparaguay-el-dolar-se-elevo-a-g-4730-ante-la-expectativa-por-decision-de-eeuu&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -168,10 +168,10 @@ SOBRE LA FORMULACIÓN DE LAS POLÍTICAS&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p
 	</entry>
 	<entry>
 		<title>Misión del FMI concluye visita al Paraguay</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=319%3Amision-del-fmi-concluye-visita-al-paraguay&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=319%3Amision-del-fmi-concluye-visita-al-paraguay&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2013-12-31T11:37:26Z</published>
 		<updated>2013-12-31T11:37:26Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=319%3Amision-del-fmi-concluye-visita-al-paraguay&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=319%3Amision-del-fmi-concluye-visita-al-paraguay&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -199,10 +199,10 @@ SOBRE LA FORMULACIÓN DE LAS POLÍTICAS&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p
 	</entry>
 	<entry>
 		<title>PARAGUAY - TRABAJO DECENTE Y DESARROLLO HUMANO: DOS VÍAS PARA MEJORAR LA VIDA DE LAS PERSONAS</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=301%3Atrabajo-decente-y-desarrollo-humano-dos-vias-para-mejorar-la-vida-de-las-personas&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=301%3Atrabajo-decente-y-desarrollo-humano-dos-vias-para-mejorar-la-vida-de-las-personas&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en"/>
 		<published>2013-10-23T11:16:08Z</published>
 		<updated>2013-10-23T11:16:08Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=301%3Atrabajo-decente-y-desarrollo-humano-dos-vias-para-mejorar-la-vida-de-las-personas&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=301%3Atrabajo-decente-y-desarrollo-humano-dos-vias-para-mejorar-la-vida-de-las-personas&amp;catid=57%3Anoticias-paraguay&amp;Itemid=58&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>

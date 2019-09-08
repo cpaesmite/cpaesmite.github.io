@@ -3,17 +3,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
 	<title type="text">REGULATION OF INTEREST</title>
 	<subtitle type="text">Cpaesmite Consulting - International Commerce And Logistics</subtitle>
-	<link rel="alternate" type="text/html" href="http://cpaesmite.com"/>
-	<id>http://cpaesmite.com/index.php</id>
+	<link rel="alternate" type="text/html" href="https://cpaesmite.github.io"/>
+	<id>https://cpaesmite.github.io/index.php</id>
 	<updated>2019-09-07T19:33:47Z</updated>
 	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
-<link rel="self" type="application/atom+xml" href="http://cpaesmite.com/index.php?option=com_content&amp;view=category&amp;id=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en&amp;format=feed&amp;type=atom" />
+<link rel="self" type="application/atom+xml" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=category&amp;id=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en&amp;format=feed&amp;type=atom" />
 	<entry>
 		<title>Comercio Exterior XII/2016</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=523%3Acomercio-exterior-xii2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=523%3Acomercio-exterior-xii2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
 		<published>2017-01-21T19:52:04Z</published>
 		<updated>2017-01-21T19:52:04Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=523%3Acomercio-exterior-xii2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=523%3Acomercio-exterior-xii2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -401,10 +401,10 @@ ES-UY;mso-bidi-font-weight:bold&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</co
 	</entry>
 	<entry>
 		<title>Comercio Exterior XI/2016</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=521%3Acomercio-exterior-xi2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=521%3Acomercio-exterior-xi2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
 		<published>2016-12-17T22:08:53Z</published>
 		<updated>2016-12-17T22:08:53Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=521%3Acomercio-exterior-xi2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=521%3Acomercio-exterior-xi2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -692,10 +692,10 @@ mso-bidi-font-weight:bold&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</content>
 	</entry>
 	<entry>
 		<title>Comercio Exterior X/2016</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=519%3Acomercio-exterior-x2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=519%3Acomercio-exterior-x2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
 		<published>2016-12-02T17:17:55Z</published>
 		<updated>2016-12-02T17:17:55Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=519%3Acomercio-exterior-x2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=519%3Acomercio-exterior-x2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -1075,10 +1075,10 @@ mso-ansi-language:ES-UY&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</content>
 	</entry>
 	<entry>
 		<title>Comercio Exterior VIII/2016</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=516%3Acomercio-exterior-viii2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=516%3Acomercio-exterior-viii2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
 		<published>2016-10-15T21:12:18Z</published>
 		<updated>2016-10-15T21:12:18Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=516%3Acomercio-exterior-viii2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=516%3Acomercio-exterior-viii2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -1360,10 +1360,10 @@ mso-ansi-language:ES-UY&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</content>
 	</entry>
 	<entry>
 		<title>Comercio Exterior IX/2016</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=515%3Acomercio-exterior-ix2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=515%3Acomercio-exterior-ix2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
 		<published>2016-10-15T21:08:43Z</published>
 		<updated>2016-10-15T21:08:43Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=515%3Acomercio-exterior-ix2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=515%3Acomercio-exterior-ix2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -1749,10 +1749,10 @@ de franquicia de equipaje&quot;, en Administración de Aduana de Carrasco.&lt;o:
 	</entry>
 	<entry>
 		<title>Comercio Exterior VII/2016</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=499%3Acomercio-exterior-vii2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=499%3Acomercio-exterior-vii2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
 		<published>2016-08-20T21:55:14Z</published>
 		<updated>2016-08-20T21:55:14Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=499%3Acomercio-exterior-vii2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=499%3Acomercio-exterior-vii2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -2086,10 +2086,10 @@ mso-bidi-font-weight:bold&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</content>
 	</entry>
 	<entry>
 		<title>Comercio Exterior VI/2016</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=495%3Acomercio-exterior-vi2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=495%3Acomercio-exterior-vi2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
 		<published>2016-07-10T16:05:12Z</published>
 		<updated>2016-07-10T16:05:12Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=495%3Acomercio-exterior-vi2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=495%3Acomercio-exterior-vi2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -2401,10 +2401,10 @@ mso-bidi-font-weight:bold&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</content>
 	</entry>
 	<entry>
 		<title>Comercio Exterior V/2016</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=491%3Acomercio-exterior-v2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=491%3Acomercio-exterior-v2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
 		<published>2016-06-12T16:05:47Z</published>
 		<updated>2016-06-12T16:05:47Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=491%3Acomercio-exterior-v2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=491%3Acomercio-exterior-v2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -2936,10 +2936,10 @@ gasto, consideraciones&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=
 	</entry>
 	<entry>
 		<title>Comercio Exterior IV/2016</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=487%3Acomercio-exterior-iv2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=487%3Acomercio-exterior-iv2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
 		<published>2016-05-15T14:14:40Z</published>
 		<updated>2016-05-15T14:14:40Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=487%3Acomercio-exterior-iv2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=487%3Acomercio-exterior-iv2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
@@ -3133,10 +3133,10 @@ mso-bidi-font-weight:bold&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</content>
 	</entry>
 	<entry>
 		<title>Comercio Exterior III/2016</title>
-		<link rel="alternate" type="text/html" href="http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=482%3Acomercio-exterior-iii2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
+		<link rel="alternate" type="text/html" href="https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=482%3Acomercio-exterior-iii2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en"/>
 		<published>2016-04-17T00:27:01Z</published>
 		<updated>2016-04-17T00:27:01Z</updated>
-		<id>http://cpaesmite.com/index.php?option=com_content&amp;view=article&amp;id=482%3Acomercio-exterior-iii2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
+		<id>https://cpaesmite.github.io/index.php?option=com_content&amp;view=article&amp;id=482%3Acomercio-exterior-iii2016&amp;catid=59%3Anormas-uruguay&amp;Itemid=59&amp;lang=en</id>
 		<author>
 			<name>Federico Esmite</name>
 		<email>director@cpaesmite.com</email>
